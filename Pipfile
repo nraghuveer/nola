@@ -13,6 +13,7 @@ pytest = "*"
 pytest-runner = "*"
 Sphinx = "*"
 twine = "*"
+black = "*"
 
 [packages]
 nola = {path = ".", editable = true}
